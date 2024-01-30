@@ -10,7 +10,7 @@ public class Item {
 	}
 
 	public long getId() {
-		return id;
+		return i;
 	}
 
 	public void setId(long id) {
